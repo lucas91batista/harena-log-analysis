@@ -1,2 +1,2 @@
-# harena-logger-analysis
+# harena-log-analysis
 Kafka + Spark + Hadoop
