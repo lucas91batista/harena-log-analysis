@@ -4,15 +4,18 @@
 chmod +x ~/binder/start.hadoop 
 chmod +x ~/binder/start.zookeeper
 chmod +x ~/binder/start.kafka
+chmod +x ~/binder/start.mongodb
 
 
 
 
 ~/binder/start.hadoop  		&& \
 sleep 3                		&& \
-~/binder/start.zookeeper    && \
+~/binder/start.zookeeper  && \
 sleep 3                		&& \
 ~/binder/start.kafka   		&& \
+sleep 3                		&& \
+~/binder/start.mongodb    &&\
 touch ready.txt         	&
 
 
