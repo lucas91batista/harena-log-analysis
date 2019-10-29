@@ -1,0 +1,10 @@
+ssh
+pdsh
+rsync
+htop
+vim
+curl
+wget
+net-tools
+openjdk-8-jdk
+telnet
