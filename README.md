@@ -59,7 +59,7 @@ The list below provides the badges and the hyperlinks for launching one of the s
 
   - [![launch @ gesis.org][badge-jupyterlab-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/lucas91batista/harena-log-analysis/master?urlpath=lab)
 
-  - [![launch @ pangeo.io][badge-jupyterlab-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/lab-hadoop/kafka-install?urlpath=lab)
+  - [![launch @ pangeo.io][badge-jupyterlab-pangeo-io]](https://binder.pangeo.io/v2/gh/lucas91batista/harena-log-analysis/master?urlpath=lab)
           
 
 ### Launch this laboratory locally using Docker
