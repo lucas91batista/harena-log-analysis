@@ -21,7 +21,7 @@
 </div>
 <!-- /ds header -->
 
-# lab-hadoop
+# harena-log-analysis
 
 A laboratory for learning Hadoop.
 
